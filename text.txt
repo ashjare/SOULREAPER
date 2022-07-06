@@ -14,7 +14,7 @@ Flask-Assets==0.12
 Flask-HTTPAuth==3.2.3
 Flask-SQLAlchemy==2.3.2
 functions==0.7.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 ipykernel==4.6.1
 ipython==6.2.1
